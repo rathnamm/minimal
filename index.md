@@ -20,5 +20,5 @@ Started to learn AI / ML as part IIITB and Upgrad program
 >
 > [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rathnamm/fraud_detection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="/assets/img/fraud_detection.png"/></center>
 
